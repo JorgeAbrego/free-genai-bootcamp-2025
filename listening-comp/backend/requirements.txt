@@ -1,0 +1,5 @@
+youtube_transcript_api
+groq
+chromadb
+streamlit
+boto3
